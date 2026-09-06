@@ -88,14 +88,17 @@ The project follows these steps:
 
 ## 💡 Key Insights
 
-The analysis helps identify:
+The analysis provides insights into:
 
-- Which categories generate the highest sales
-- Which products contribute most to profit
-- Which regions perform best
-- How sales change over time
-- Which customer segments generate the most revenue
-- Products and areas that require further attention
+- Overall sales and profit performance
+- Sales contribution by category and sub-category
+- Regional sales and profitability
+- Customer segment performance
+- Monthly sales trends
+- Top-performing products
+- Areas with comparatively lower profitability
+
+These insights can help businesses understand which products, regions, and customer segments contribute most to overall performance and where improvement opportunities may exist.
 
 ---
 
