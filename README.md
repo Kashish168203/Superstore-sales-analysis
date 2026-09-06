@@ -100,6 +100,13 @@ The analysis provides insights into:
 
 These insights can help businesses understand which products, regions, and customer segments contribute most to overall performance and where improvement opportunities may exist.
 
+## 📂 Project Contents
+
+- SuperStore_Sales_Dataset — Original Superstore sales dataset
+- notebooks/ — Python analysis and visualization notebook
+- Superstore_sales_Dashboard — Dashboard/analysis notebook
+- Superstore_Dashboard.png — Dashboard preview
+- README.md — Project documentation
 ---
 
 ## 👩‍💻 Author
