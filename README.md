@@ -86,19 +86,30 @@ The project follows these steps:
 
 ---
 
-## 💡 Key Insights
+## 💡 Key Business Insights
 
-The analysis provides insights into:
+The analysis focuses on the following business areas:
 
-- Overall sales and profit performance
-- Sales contribution by category and sub-category
-- Regional sales and profitability
-- Customer segment performance
-- Monthly sales trends
-- Top-performing products
-- Areas with comparatively lower profitability
+### 1. Sales & Profit Performance
+Analyzed overall sales, quantity, and profit to understand the business's financial performance.
 
-These insights can help businesses understand which products, regions, and customer segments contribute most to overall performance and where improvement opportunities may exist.
+### 2. Category Performance
+Compared Furniture, Technology, and Office Supplies to identify the strongest and weakest-performing categories.
+
+### 3. Sub-Category Analysis
+Analyzed individual sub-categories to identify products and product groups contributing significantly to sales and profit.
+
+### 4. Regional Performance
+Compared the East, West, Central, and South regions to identify differences in sales and profitability.
+
+### 5. Customer Segment Analysis
+Evaluated Consumer, Corporate, and Home Office segments to understand their contribution to overall sales.
+
+### 6. Monthly Sales Trends
+Analyzed monthly sales patterns to identify periods of higher and lower sales activity.
+
+### 7. Profitability Opportunities
+Identified transactions and product areas where sales were accompanied by low or negative profit, highlighting potential opportunities for improving pricing, discounts, or product strategy.
 
 ## 📂 Project Contents
 
