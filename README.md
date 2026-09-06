@@ -42,8 +42,9 @@ The dataset contains Superstore sales transaction data, including information ab
 ## 📈 Dashboard
 ## 📸 Dashboard Preview
 
-[View Superstore Sales Dashboard]
-(Superstore_Dashboard.png)
+[![Superstore Sales Dashboard](./
+Superstore_Dashboard.png)](./
+Superstore_Dashboard.png)
 
 The interactive dashboard provides an overview of:
 
